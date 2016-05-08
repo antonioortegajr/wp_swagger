@@ -4,3 +4,5 @@ A Swagger UI in your WP dash. As the WP REST API grows I want to have docs in pl
 
 
 Normal Pet Store example included.
+
+To use you will need to edit the Swagger UI manually.
