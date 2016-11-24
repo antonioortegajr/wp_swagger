@@ -12,4 +12,4 @@ Normal Pet Store example included.
 
 To use you will need to edit the Swagger UI manually.
 
-Add a suicide to your page or post.
+Add swagger to your page or post.
