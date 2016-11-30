@@ -13,3 +13,5 @@ Normal Pet Store example included.
 To use you will need to edit the Swagger UI manually.
 
 Add swagger to your page or post.
+
+Just use the short code [wp_swagger] on a page or post.
