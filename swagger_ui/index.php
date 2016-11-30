@@ -20,7 +20,7 @@
   <script src='<?php echo $dir; ?>/lib/highlight.9.1.0.pack_extended.js' type='text/javascript'></script>
   <script src='<?php echo $dir; ?>/lib/jsoneditor.min.js' type='text/javascript'></script>
   <script src='<?php echo $dir; ?>/lib/marked.js' type='text/javascript'></script>
-  <script src='<?php echo $dir; ?>lib/swagger-oauth.js' type='text/javascript'></script>
+  <script src='<?php echo $dir; ?>/lib/swagger-oauth.js' type='text/javascript'></script>
 
   <!-- Some basic translations -->
   <!-- <script src='<?php echo $dir; ?>lang/translator.js' type='text/javascript'></script> -->
